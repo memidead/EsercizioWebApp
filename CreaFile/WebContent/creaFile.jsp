@@ -15,7 +15,7 @@
         <h3>Crea il tuo file</h3><br/> 
        	<br><br>
 	  	</div>
-        <%String user=(String)session.getAttribute("username"); %>
+        
         
         <form action="threadPartito.jsp" method="get">
         
